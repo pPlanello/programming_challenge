@@ -1,0 +1,5 @@
+const FizzBuzz = (): void => {
+    
+}
+
+FizzBuzz()
