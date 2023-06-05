@@ -1,5 +1,0 @@
-const FizzBuzz = (): void => {
-    
-}
-
-FizzBuzz()
