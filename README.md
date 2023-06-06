@@ -1,9 +1,9 @@
 # Programming challenge
 Repository with multiple challenges made in:
 <div style="text-align:center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/pPlanello/programming_challenge/blob/master/language/typescript.svg" title="TypeScript" alt="TypeScript" width="60" height="60">&nbsp;
+  <img src="https://github.com/pPlanello/programming_challenge/blob/master/language/java.svg" title="Java" alt="Java" width="60" height="60">&nbsp;
+  <img src="https://github.com/pPlanello/programming_challenge/blob/master/language/python.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
 </div>
 
 ## Requeriments
